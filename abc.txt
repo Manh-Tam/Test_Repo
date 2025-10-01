@@ -1,9 +1,7 @@
 Feature branch here.
 Fixbug
 cònl
-aheadfic
-xxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxx
+aheadfi
 xxxxxxxxxxxxxxxxxxx
 thay doi mot it
 lai sua nua roi roi roi
